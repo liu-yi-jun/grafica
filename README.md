@@ -25,3 +25,8 @@ With it you can easily create 2D plots that will enjoy the full interactive capa
 
 Download the [latest minified library release](https://raw.github.com/jagracar/grafica.js/master/releases/grafica.min.js) and follow the steps 
 described [here](http://p5js.org/libraries/).
+
+
+## 打包方式
+
+grunt
