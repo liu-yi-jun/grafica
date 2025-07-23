@@ -28,5 +28,5 @@ described [here](http://p5js.org/libraries/).
 
 
 ## 打包方式
-
+切换node到14.15.0版本
 grunt
